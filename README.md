@@ -24,6 +24,11 @@ python 1_Simple_Demo.py
 | 7_Realtime_Data_Demo           | ![](/img/07.gif)                                |
 | 8_Multiple_Axes_Demo           | ![](/img/08.png)                                |
 | 9_Logarithmic_Axis_Demo        | ![](/img/09.png)                                |
+| 10_Line_Style_Demo             | ![](/img/10.png)                                |
+| 11_Date_Axis_Demo              | ![](/img/11.png)                                |
+| 12_Parametric_Curves_Demo      | ![](/img/12.png)                                |
+| 13_Bar_Chart_Demo              | ![](/img/13.png)                                |
+| 14_Statistical_Box_Demo        | ![](/img/14.png)                                |
 | ...                            | ...                                             |
 
 ## :mailbox_with_mail: Feedback and Contribution
