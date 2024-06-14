@@ -29,6 +29,10 @@ python 1_Simple_Demo.py
 | 12_Parametric_Curves_Demo      | ![](/img/12.png)                                |
 | 13_Bar_Chart_Demo              | ![](/img/13.png)                                |
 | 14_Statistical_Box_Demo        | ![](/img/14.png)                                |
+| 15_Interaction_Example         | ![](/img/15.png)                                |
+| 16_Item_Demo                   | ![](/img/16.gif)                                |
+| 17_Advanced_Axes_Demo          | ![](/img/17.png)                                |
+| 18_Financial_Chart_Demo        | ![](/img/18.png)                                |
 | ...                            | ...                                             |
 
 ## :mailbox_with_mail: Feedback and Contribution
